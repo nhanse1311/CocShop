@@ -1,5 +1,5 @@
 # CocShop
-# CocShop
+# privacy
 Privacy Policy of CocShop
 
 This Application collects some Personal Data from its Users.
